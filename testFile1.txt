@@ -1,2 +1,3 @@
 testFile1 - First Line
+added a new second line
 
